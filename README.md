@@ -18,4 +18,4 @@ JS => ;
 
 ## preview-2
 
-![preview](https://github.com/scaramuzza/pigGame/blob/main/pigGame_preview1.png)
+![preview](https://github.com/scaramuzza/pigGame/blob/main/pigGame_preview2.png)
