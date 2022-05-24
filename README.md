@@ -19,4 +19,3 @@ JS => use strict, querySelector, getElementById, function, array, textContent, c
 ## preview-2
 
 ![preview](https://github.com/scaramuzza/pigGame/blob/main/pigGame_preview2.png)
-hhhhhhhhhjhjhk
